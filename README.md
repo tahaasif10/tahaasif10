@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammad Taha Asif <h3 align="center">A passionate developer from Pakistan</h3> </h1> 
 
 - 🔭 I’m currently pursuing a degree in <b>Computer Science</b> from <b> Karachi University</b>
-- 🌱 I’m currently learning <b>Python</b> and basics of <b>AI</b> and <b>Machine learning</b>
+- 🌱 I’m currently learning <b>Python</b> and basics of <b>AI</b> and <b>Machine learning</b> 
 - 🤝 I’m looking to collaborate on beginner and advanced DSA projects
 - 📫 Reach me through: dr.tahaasif@gmail.com and more links in bio
 - ⚡ Fun fact: I love organizing my code to make it easy for others to understand!
