@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing a degree in <b>Computer Science</b> from <b> Karachi University</b>
 - 🌱 I’m currently learning <b>Python</b> and basics of <b>AI</b> and <b>Machine learning</b> 
-- 🤝 I’m looking to collaborate on beginner and advanced DSA projects
+- 🤝 I’m looking to collaborate on beginner and advanced projects
 - 📫 Reach me through: dr.tahaasif@gmail.com and more links in bio
 <!-- - ⚡ Fun fact: I love organizing my code to make it easy for others to understand! -->
 
