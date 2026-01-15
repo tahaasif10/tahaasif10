@@ -2,7 +2,6 @@
 <!--
 **tahaasif10/tahaasif10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.   
 -->
- 
 <h1 align="center">Hi 👋, I'm Mohammad Taha Asif <h3 align="center">A passionate developer from Pakistan</h3> </h1> 
 
 - 🔭 I’m currently pursuing a degree in <b>Computer Science</b> from <b> Karachi University</b>
